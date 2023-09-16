@@ -1,0 +1,20 @@
+[
+  {
+    "policy_name": "Test",
+    "password_length": "9",
+    "punctuation": "2",
+    "numbers": "1"
+  },
+  {
+    "policy_name": "Admin",
+    "password_length": "14",
+    "punctuation": "1",
+    "numbers": "1"
+  },
+  {
+    "policy_name": "TestPolicy",
+    "password_length": "14",
+    "punctuation": "3",
+    "numbers": "4"
+  }
+]
